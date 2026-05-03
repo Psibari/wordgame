@@ -391,7 +391,7 @@ export default function HomeScreen() {
         <Animated.View style={[styles.header, headerStyle]}>
           <View style={styles.headerTop}>
             <View>
-              <Text style={styles.appTitle}>POLYPLEX</Text>
+              <Text style={styles.appTitle}>POLYWORDS/Text>
               <Text style={styles.appTagline}>Master Words with Multiple Meanings</Text>
             </View>
             <View style={styles.headerRight}>
