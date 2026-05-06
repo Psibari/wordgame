@@ -1,0 +1,6 @@
+// State: 'select' | 'blitz' | 'crossroads' | 'scholars' | 'echo'
+const [activeMode, setActiveMode] = useState('select')
+
+if (activeMode === 'select') return <ModeSelectGrid onSelect={setActiveMode} />
+if (activeMode === 'blitz') return <Blitz onExit={() => setActiveMode('select')} />
+// etc...
