@@ -1,21 +1,43 @@
-import { View, Text, Pressable } from 'react-native';
 import { useState } from 'react';
-import Blitz from '../../components/Blitz'; // we'll make this next
+import { View, StyleSheet } from 'react-native';
+import { Colors } from '@/constants/theme';
+import ModeSelect, { ModeKey } from '@/components/ModeSelect';
+import Blitz from '@/components/Blitz';
+import Crossroads from '@/components/Crossroads';
+import ScholarsCave from '@/components/ScholarsCave';
+import EchoCanyon from '@/components/EchoCanyon';
 
-export default function Play() {
-  const [mode, setMode] = useState<'select' | 'blitz'>('select');
+export default function PlayScreen() {
+  const [activeMode, setActiveMode] = useState<ModeKey | null>(null);
 
-  if (mode === 'blitz') return <Blitz onExit={() => setMode('select')} />
+  const handleExit = () => setActiveMode(null);
+
+  const renderMode = () => {
+    switch (activeMode) {
+      case 'blitz':
+        return <Blitz onExit={handleExit} />;
+      case 'crossroads':
+        return <Crossroads onExit={handleExit} />;
+      case 'scholarsCave':
+        return <ScholarsCave onExit={handleExit} />;
+      case 'echoCanyon':
+        return <EchoCanyon onExit={handleExit} />;
+      default:
+        return null;
+    }
+  };
 
   return (
-    <View style={{ flex: 1, padding: 20 }}>
-      <Text style={{ fontSize: 24, marginBottom: 20 }}>Choose Your Brain Pain</Text>
-      <Pressable onPress={() => setMode('blitz')} style={{ padding: 20, backgroundColor: '#eee', marginBottom: 10 }}>
-        <Text>⚡ Blitz — Speed</Text>
-      </Pressable>
-      <Pressable disabled style={{ padding: 20, backgroundColor: '#ddd', opacity: 0.5 }}>
-        <Text>🔀 Crossroads — Coming Soon</Text>
-      </Pressable>
+    <View style={styles.root}>
+      {activeMode === null ? (
+        <ModeSelect onSelectMode={setActiveMode} />
+      ) : (
+        renderMode()
+      )}
     </View>
   );
 }
+
+const styles = StyleSheet.create({
+  root: { flex: 1, backgroundColor: Colors.bg },
+});
