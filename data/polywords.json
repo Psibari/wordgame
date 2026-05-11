@@ -1,5 +1,93 @@
 
 [
+  {
+    "word": "Bank",
+    "type": "Quadruple",
+    "meanings": [
+      "A financial institution",
+      "The side of a river",
+      "To tilt an aircraft",
+      "A reserve supply"
+    ],
+    "examples": [
+      "She deposited money at the bank.",
+      "They sat on the riverbank.",
+      "The pilot banked sharply.",
+      "The hospital has a blood bank."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Bat",
+    "type": "Double",
+    "meanings": [
+      "A flying mammal",
+      "Sports equipment for hitting a ball"
+    ],
+    "examples": [
+      "A bat flew out of the cave.",
+      "He swung the bat and hit a home run."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Light",
+    "type": "Quadruple",
+    "meanings": [
+      "Illumination",
+      "Not heavy",
+      "To ignite",
+      "Pale in color"
+    ],
+    "examples": [
+      "Turn on the light.",
+      "The bag was light.",
+      "She lit the candle.",
+      "A light blue dress."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Duck",
+    "type": "Double",
+    "meanings": [
+      "A waterfowl",
+      "To lower the head quickly"
+    ],
+    "examples": [
+      "The duck swam across the pond.",
+      "He ducked to avoid the branch."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Jam",
+    "type": "Quadruple",
+    "meanings": [
+      "A fruit preserve",
+      "A traffic blockage",
+      "To play music informally",
+      "To force into a space"
+    ],
+    "examples": [
+      "Strawberry jam.",
+      "A traffic jam.",
+      "They jammed all night.",
+      "Jammed it in."
+    ],
+    "theme": "Food",
+    "difficulty": "Medium",
+    "mastery": 0
+  }
+
    
 
  
