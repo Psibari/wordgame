@@ -341,6 +341,83 @@
     "difficulty": "Medium",
     "mastery": 0
   }
+  {
+    "word": "Crane",
+    "type": "Triple",
+    "meanings": [
+      "A tall wading bird",
+      "A machine for lifting",
+      "To stretch the neck to see"
+    ],
+    "examples": [
+      "A crane fished in the shallows.",
+      "The construction crane rose high.",
+      "She craned to see the parade."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Bear",
+    "type": "Double",
+    "meanings": [
+      "A large furry mammal",
+      "To tolerate or endure something"
+    ],
+    "examples": [
+      "The bear roamed through the forest.",
+      "I can't bear this noise anymore."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Sink",
+    "type": "Double",
+    "meanings": [
+      "A basin for washing in a kitchen",
+      "To go below the surface of water"
+    ],
+    "examples": [
+      "She washed the dishes in the sink.",
+      "The heavy stone began to sink."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Tire",
+    "type": "Double",
+    "meanings": [
+      "A rubber covering on a wheel",
+      "To become weary or fatigued"
+    ],
+    "examples": [
+      "The car had a flat tire.",
+      "Long walks tire me out quickly."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Bowl",
+    "type": "Double",
+    "meanings": [
+      "A round dish for food",
+      "To roll a ball in a sport"
+    ],
+    "examples": [
+      "She poured cereal into a bowl.",
+      "He bowled a perfect strike."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  }
 
 
 
