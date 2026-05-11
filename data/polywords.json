@@ -256,10 +256,91 @@
     "difficulty": "Easy",
     "mastery": 0
   }
+   {
+    "word": "Park",
+    "type": "Double",
+    "meanings": [
+      "A public green space",
+      "To leave a vehicle in a spot"
+    ],
+    "examples": [
+      "The children played in the park.",
+      "She parked the car in the lot."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Fly",
+    "type": "Quadruple",
+    "meanings": [
+      "An insect",
+      "To travel through air",
+      "A trouser opening",
+      "A high baseball hit"
+    ],
+    "examples": [
+      "A fly buzzed around.",
+      "Birds fly south.",
+      "Your fly is open.",
+      "A deep fly ball."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Wave",
+    "type": "Double",
+    "meanings": [
+      "A moving swell of water",
+      "To move the hand in greeting"
+    ],
+    "examples": [
+      "A huge wave crashed on the shore.",
+      "She waved goodbye from the window."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Bark",
+    "type": "Triple",
+    "meanings": [
+      "The outer covering of a tree",
+      "The sound a dog makes",
+      "A type of small sailing ship"
+    ],
+    "examples": [
+      "Rough birch bark peeled away.",
+      "The bark echoed across the yard.",
+      "The bark sailed into the harbor."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Ring",
+    "type": "Quadruple",
+    "meanings": [
+      "Circular jewelry",
+      "The sound of a bell",
+      "An enclosed area for boxing",
+      "A criminal group"
+    ],
+    "examples": [
+      "She wore a gold ring.",
+      "The ring of the phone echoed.",
+      "Fighters entered the ring.",
+      "Police busted the smuggling ring."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  }
 
-
-   
-
- 
 
 
