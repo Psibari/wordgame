@@ -341,6 +341,202 @@
     "mastery": 0
   }
 ,
+  {
+    "word": "ameliorate",
+    "type": "verb",
+    "difficulty": "triple",
+    "meanings": [
+      "to make something better or improve a situation"
+    ],
+    "examples": [
+      "New policies were introduced to ameliorate working conditions."
+    ],
+    "theme": "improvement",
+    "mastery": 0
+  },
+  {
+    "word": "banal",
+    "type": "adjective",
+    "difficulty": "double",
+    "meanings": [
+      "lacking originality; boringly predictable"
+    ],
+    "examples": [
+      "The movie was criticized for its banal storyline."
+    ],
+    "theme": "creativity",
+    "mastery": 0
+  },
+  {
+    "word": "capricious",
+       "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "given to sudden and unaccountable changes of mood or behavior"
+    ],
+    "examples": [
+      "Her capricious decisions made her difficult to work with."
+    ],
+    "theme": "behavior",
+    "mastery": 0
+  },
+  {
+    "word": "deleterious",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "causing harm or damage"
+    ],
+    "examples": [
+      "The chemical had deleterious effects on the environment."
+    ],
+    "theme": "science",
+    "mastery": 0
+  },
+  {
+    "word": "enmity",
+    "type": "noun",
+    "difficulty": "triple",
+    "meanings": [
+      "a state of deep hostility or hatred"
+    ],
+    "examples": [
+      "Years of conflict created lasting enmity between the groups."
+    ],
+    "theme": "conflict",
+    "mastery": 0
+  },
+  {
+    "word": "fervent",
+    "type": "adjective",
+    "difficulty": "double",
+    "meanings": [
+      "having or displaying passionate intensity"
+    ],
+    "examples": [
+      "She gave a fervent speech that moved the audience."
+    ],
+    "theme": "emotion",
+    "mastery": 0
+  },
+  {
+    "word": "grandiose",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "impressive or magnificent in appearance or style, often excessively so"
+    ],
+    "examples": [
+      "The CEO announced a grandiose plan that seemed unrealistic."
+    ],
+    "theme": "description",
+    "mastery": 0
+  },
+  {
+    "word": "hapless",
+    "type": "adjective",
+    "difficulty": "double",
+    "meanings": [
+      "unfortunate or unlucky"
+    ],
+    "examples": [
+      "The hapless traveler lost his luggage twice in one week."
+    ],
+    "theme": "events",
+    "mastery": 0
+  },
+  {
+    "word": "intransigent",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "unwilling to change one's views or agree"
+    ],
+    "examples": [
+      "Negotiations stalled due to both sides being intransigent."
+    ],
+    "theme": "behavior",
+    "mastery": 0
+  },
+  {
+    "word": "judicious",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "having or showing good judgment or sense"
+    ],
+    "examples": [
+      "A judicious investment early on saved the company."
+    ],
+    "theme": "wisdom",
+    "mastery": 0
+  },
+  {
+    "word": "kudos",
+    "type": "noun",
+    "difficulty": "double",
+    "meanings": [
+      "praise and honor received for an achievement"
+    ],
+    "examples": [
+      "She received kudos for her outstanding performance."
+    ],
+    "theme": "recognition",
+    "mastery": 0
+  },
+  {
+    "word": "lurid",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "sensational or shocking, often in a vivid or explicit way"
+    ],
+    "examples": [
+      "The tabloid published a lurid account of the scandal."
+    ],
+    "theme": "media",
+    "mastery": 0
+  },
+  {
+    "word": "morose",
+    "type": "adjective",
+    "difficulty": "double",
+    "meanings": [
+      "sullen and ill‑tempered"
+    ],
+    "examples": [
+      "He sat alone in a morose silence."
+    ],
+    "theme": "emotion",
+    "mastery": 0
+  },
+  {
+    "word": "nonplussed",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "so surprised and confused that one is unsure how to react"
+    ],
+    "examples": [
+      "She was completely nonplussed by the unexpected question."
+    ],
+    "theme": "emotion",
+    "mastery": 0
+  },
+  {
+    "word": "ostracize",
+    "type": "verb",
+    "difficulty": "triple",
+    "meanings": [
+      "to exclude someone from a group or society"
+    ],
+    "examples": [
+      "He was ostracized after the incident."
+    ],
+    "theme": "society",
+    "mastery": 0
+  }
+,
 
  
 
