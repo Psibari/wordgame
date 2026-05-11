@@ -1,47 +1,20 @@
-import { Tabs } from "expo-router";
-import { Ionicons } from "@expo/vector-icons";
+import { Stack } from "expo-router";
 
 export default function Layout() {
   return (
-    <Tabs
+    <Stack
       screenOptions={{
         headerShown: false,
-        tabBarActiveTintColor: "#FFD700",
-        tabBarInactiveTintColor: "#888",
-        tabBarStyle: {
-          backgroundColor: "#1A1040",
-        },
+        animation: "fade",
       }}
     >
-      <Tabs.Screen
-        name="play"
-        options={{
-          title: "Play",
-          tabBarIcon: ({ color, size }) => (
-            <Ionicons name="game-controller-outline" size={size} color={color} />
-          ),
-        }}
-      />
+      {/* Tabs group (Crossroads, Library, Polly) */}
+      <Stack.Screen name="(tabs)" />
 
-      <Tabs.Screen
-        name="library"
-        options={{
-          title: "Library",
-          tabBarIcon: ({ color, size }) => (
-            <Ionicons name="book-outline" size={size} color={color} />
-          ),
-        }}
-      />
-
-      <Tabs.Screen
-        name="polly"
-        options={{
-          title: "Polly",
-          tabBarIcon: ({ color, size }) => (
-            <Ionicons name="happy-outline" size={size} color={color} />
-          ),
-        }}
-      />
-    </Tabs>
+      {/* Standalone game modes */}
+      <Stack.Screen name="Blitz" />
+      <Stack.Screen name="Scholar" />
+      <Stack.Screen name="Echo" />
+    </Stack>
   );
 }
