@@ -418,6 +418,97 @@
     "difficulty": "Easy",
     "mastery": 0
   }
+  {
+    "word": "Pen",
+    "type": "Quadruple",
+    "meanings": [
+      "A writing instrument",
+      "An animal enclosure",
+      "A prison",
+      "To write or compose"
+    ],
+    "examples": [
+      "She used a pen.",
+      "A pig pen.",
+      "Time in the pen.",
+      "She penned a letter."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Palm",
+    "type": "Quadruple",
+    "meanings": [
+      "The inner hand surface",
+      "A tropical tree",
+      "To conceal in hand",
+      "To pass off deceptively"
+    ],
+    "examples": [
+      "She read his palm.",
+      "Palm trees swayed.",
+      "He palmed the coin.",
+      "He palmed off a fake."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Plane",
+    "type": "Double",
+    "meanings": [
+      "An aircraft",
+      "A flat, level surface"
+    ],
+    "examples": [
+      "The plane landed safely.",
+      "The carpenter checked the smooth plane."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Star",
+       "type": "Quadruple",
+    "meanings": [
+      "A celestial body",
+      "A famous person",
+      "To have the main role",
+      "A pointed shape"
+    ],
+    "examples": [
+      "Stars twinkled above.",
+      "A movie star.",
+      "She starred in the film.",
+      "A five-pointed star."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Fan",
+    "type": "Quadruple",
+    "meanings": [
+      "An airflow device",
+      "An enthusiast",
+      "To spread out",
+      "To intensify"
+    ],
+    "examples": [
+      "The ceiling fan.",
+      "A sports fan.",
+      "She fanned the cards.",
+      "Winds fanned the flames."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  }
 
 
 
