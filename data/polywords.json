@@ -87,6 +87,93 @@
     "difficulty": "Medium",
     "mastery": 0
   }
+  {
+    "word": "Can",
+    "type": "Double",
+    "meanings": [
+      "A metal container",
+      "To be able to do something"
+    ],
+    "examples": [
+      "She opened a can of soup.",
+      "I can solve this problem."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Watch",
+    "type": "Quadruple",
+    "meanings": [
+      "A wrist timepiece",
+      "To observe",
+      "A guard period",
+      "To be careful"
+    ],
+    "examples": [
+      "She checked her watch.",
+      "Watch carefully.",
+      "The midnight watch.",
+      "Watch your step."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Spring",
+    "type": "Quadruple",
+    "meanings": [
+      "A season",
+      "A coiled metal device",
+      "A natural water source",
+      "To jump suddenly"
+    ],
+    "examples": [
+      "Flowers bloom in spring.",
+      "The spring broke.",
+      "Water from a mountain spring.",
+      "The cat sprang onto the counter."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Well",
+    "type": "Double",
+    "meanings": [
+      "In good health",
+      "A deep hole for drawing water"
+    ],
+    "examples": [
+      "I'm feeling well today.",
+      "They drew water from the old well."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Date",
+    "type": "Quadruple",
+    "meanings": [
+      "A calendar day",
+      "A romantic outing",
+      "A sweet fruit",
+      "To determine the age of"
+    ],
+    "examples": [
+      "Today's date.",
+      "A first date.",
+      "Dates are chewy.",
+      "Scientists dated the fossil."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  }
 
    
 
