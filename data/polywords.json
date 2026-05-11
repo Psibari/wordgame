@@ -509,6 +509,91 @@
     "difficulty": "Medium",
     "mastery": 0
   }
+  {
+    "word": "Rock",
+    "type": "Triple",
+    "meanings": [
+      "A stone",
+      "A genre of music",
+      "To move gently back and forth"
+    ],
+    "examples": [
+      "He skipped a rock across the lake.",
+      "She listens to classic rock.",
+      "The boat rocked in the waves."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Pitch",
+    "type": "Triple",
+    "meanings": [
+      "To throw something",
+      "The highness or lowness of sound",
+      "A sales presentation"
+    ],
+    "examples": [
+      "He pitched the ball.",
+      "The singer hit a high pitch.",
+      "She gave a strong sales pitch."
+    ],
+    "theme": "Sports",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Mine",
+    "type": "Triple",
+    "meanings": [
+      "Belonging to me",
+      "An excavation for minerals",
+      "To extract resources"
+    ],
+    "examples": [
+      "That book is mine.",
+      "They explored the old mine.",
+      "The company mined for copper."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Bat",
+    "type": "Triple",
+    "meanings": [
+      "A flying mammal",
+      "A club used in sports",
+      "To hit something"
+    ],
+    "examples": [
+      "A bat flew overhead.",
+      "He swung the bat.",
+      "She batted the ball away."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Slip",
+    "type": "Triple",
+    "meanings": [
+      "To lose footing",
+      "A small mistake",
+      "A piece of paper"
+    ],
+    "examples": [
+      "He slipped on the ice.",
+      "A slip of the tongue.",
+      "She wrote her number on a slip."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  }
 
 
 
