@@ -4339,9 +4339,1143 @@
     "theme": "Objects",
     "difficulty": "Medium",
     "mastery": 0
+  }  {
+    "word": "Haze",
+    "type": "Double",
+    "meanings": [
+      "A slight obscuration of the air",
+      "To confuse or bewilder"
+    ],
+    "examples": [
+      "A morning haze covered the hills.",
+      "The long lecture left him in a haze."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Index",
+    "type": "Double",
+    "meanings": [
+      "An alphabetical list of topics",
+      "A measure or indicator"
+    ],
+    "examples": [
+      "Look it up in the index.",
+      "The cost-of-living index rose."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Ivory",
+    "type": "Double",
+    "meanings": [
+      "A hard white material from tusks",
+      "A creamy white color"
+    ],
+    "examples": [
+      "The statue was carved from ivory.",
+      "She wore an ivory dress."
+    ],
+    "theme": "Objects",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Knot",
+    "type": "Double",
+    "meanings": [
+      "A fastening made by tying rope",
+      "A tight, hard feeling in muscles"
+    ],
+    "examples": [
+      "Tie a knot in the rope.",
+      "She had a knot in her shoulder."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Latch",
+       "type": "Double",
+    "meanings": [
+      "A device for fastening a door",
+      "To grasp or attach"
+    ],
+    "examples": [
+      "Close the latch securely.",
+      "The baby latched onto her finger."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Load",
+    "type": "Double",
+    "meanings": [
+      "A quantity carried",
+      "To put items into something"
+    ],
+    "examples": [
+      "A truckload of supplies.",
+      "Load the dishwasher."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Marble",
+    "type": "Triple",
+    "meanings": [
+      "A type of stone",
+      "A small glass ball",
+      "To streak with veins"
+    ],
+    "examples": [
+      "A marble countertop.",
+      "Children played with marbles.",
+      "The dough was marbled with chocolate."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Market",
+    "type": "Triple",
+    "meanings": [
+      "A place to buy and sell goods",
+      "The demand for a product",
+      "To promote or advertise"
+    ],
+    "examples": [
+      "A busy street market.",
+      "The product has a strong market.",
+      "They marketed the new phone aggressively."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Mirror",
+    "type": "Double",
+    "meanings": [
+      "A reflective surface",
+      "To imitate closely"
+    ],
+    "examples": [
+      "She looked in the mirror.",
+      "His actions mirrored hers."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Mold",
+    "type": "Triple",
+    "meanings": [
+      "A hollow form for shaping",
+      "A fungus that grows on food",
+      "To shape or influence"
+    ],
+    "examples": [
+      "Pour the clay into the mold.",
+      "Bread covered in mold.",
+      "Experiences mold character."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Mouth",
+    "type": "Double",
+    "meanings": [
+      "The opening through which food is taken",
+      "To speak without sound"
+    ],
+    "examples": [
+      "She opened her mouth to speak.",
+      "He mouthed the words silently."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Muscle",
+    "type": "Double",
+    "meanings": [
+      "Tissue that contracts to produce movement",
+      "Strength or power"
+    ],
+    "examples": [
+      "He strained a muscle.",
+      "They used political muscle."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Mystery",
+    "type": "Double",
+    "meanings": [
+      "Something difficult to understand",
+      "A genre of fiction"
+    ],
+    "examples": [
+      "The cause remains a mystery.",
+      "She enjoys reading mysteries."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Narrow",
+    "type": "Double",
+    "meanings": [
+      "Not wide",
+      "To reduce in scope"
+    ],
+    "examples": [
+      "A narrow hallway.",
+      "Narrow the list of candidates."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Nature",
+    "type": "Double",
+    "meanings": [
+      "The physical world",
+      "A person's inherent qualities"
+    ],
+    "examples": [
+      "A love of nature.",
+      "She has a gentle nature."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Needle",
+    "type": "Double",
+    "meanings": [
+      "A thin sewing tool",
+      "To provoke or annoy"
+    ],
+    "examples": [
+      "Thread the needle.",
+      "He needled his brother."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Nest",
+    "type": "Double",
+    "meanings": [
+      "A bird's home",
+      "To fit objects inside each other"
+    ],
+    "examples": [
+      "A nest in the tree.",
+      "The bowls nest together."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Nip",
+    "type": "Double",
+    "meanings": [
+      "To pinch or bite lightly",
+      "A small amount of alcohol"
+    ],
+    "examples": [
+      "The cold air nipped her cheeks.",
+      "He took a nip from the flask."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Oak",
+    "type": "Double",
+    "meanings": [
+      "A type of tree",
+      "Wood from that tree"
+    ],
+    "examples": [
+      "An oak forest.",
+      "A table made of oak."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Paddle",
+    "type": "Double",
+    "meanings": [
+      "A tool for rowing",
+      "To move through water using paddles"
+    ],
+    "examples": [
+      "She grabbed the paddle.",
+      "They paddled across the lake."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Peel",
+    "type": "Double",
+    "meanings": [
+      "The outer skin of a fruit",
+      "To remove the outer layer"
+    ],
+    "examples": [
+      "Orange peel.",
+      "Peel the potatoes."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Polish",
+    "type": "Double",
+    "meanings": [
+      "To make something smooth and shiny",
+      "Refinement or elegance"
+    ],
+    "examples": [
+      "Polish the silverware.",
+      "Her performance had polish."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Raw",
+    "type": "Double",
+    "meanings": [
+      "Uncooked",
+      "In a natural or unrefined state"
+    ],
+    "examples": [
+      "Raw vegetables.",
+      "Raw emotion."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Reef",
+    "type": "Double",
+    "meanings": [
+      "A ridge of rock or coral",
+      "To reduce sail on a boat"
+    ],
+    "examples": [
+      "A coral reef.",
+      "Reef the sails before the storm."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Rein",
+    "type": "Double",
+    "meanings": [
+      "A strap used to control a horse",
+      "To restrain or control"
+    ],
+    "examples": [
+      "She pulled the reins gently.",
+      "Rein in your spending."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  }  {
+    "word": "Relay",
+    "type": "Double",
+    "meanings": [
+      "A race in which runners take turns",
+      "To pass along information"
+    ],
+    "examples": [
+      "The team won the relay.",
+      "Please relay the message."
+    ],
+    "theme": "Sports",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Rind",
+    "type": "Double",
+    "meanings": [
+      "The tough outer skin of fruit",
+      "The hard outer layer of cheese"
+    ],
+    "examples": [
+      "Orange rind.",
+      "Cut off the cheese rind."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Roast",
+    "type": "Double",
+    "meanings": [
+      "To cook with dry heat",
+      "To tease or mock humorously"
+    ],
+    "examples": [
+      "Roast the chicken.",
+      "They roasted him at the party."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Rooted",
+    "type": "Double",
+    "meanings": [
+      "Firmly established",
+      "Having roots in the ground"
+    ],
+    "examples": [
+      "A tradition deeply rooted in history.",
+      "The tree was rooted firmly."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Rugged",
+    "type": "Double",
+    "meanings": [
+      "Rough or uneven",
+      "Strong and determined"
+    ],
+    "examples": [
+      "A rugged landscape.",
+      "He has a rugged personality."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Scale",
+    "type": "Triple",
+    "meanings": [
+      "To remove fish scales",
+      "A series of musical notes",
+      "To climb up"
+    ],
+    "examples": [
+      "Scale the fish before cooking.",
+      "Practice the C major scale.",
+      "They scaled the mountain."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Scoop",
+    "type": "Double",
+    "meanings": [
+      "A deep spoon-like tool",
+      "Exclusive news"
+    ],
+    "examples": [
+      "Use a scoop for the ice cream.",
+      "The reporter got the scoop."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Scrap",
+    "type": "Double",
+    "meanings": [
+      "A small leftover piece",
+      "To discard"
+    ],
+    "examples": [
+      "Fabric scraps.",
+      "They scrapped the old plan."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Seal",
+    "type": "Triple",
+    "meanings": [
+      "To close tightly",
+      "A marine mammal",
+      "An official stamp"
+    ],
+    "examples": [
+      "Seal the envelope.",
+      "A seal swam near the rocks.",
+      "The royal seal."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Seasoned",
+    "type": "Double",
+    "meanings": [
+      "Experienced",
+      "Flavored with spices"
+    ],
+    "examples": [
+      "A seasoned professional.",
+      "Seasoned fries."
+    ],
+    "theme": "Food",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Shade",
+    "type": "Double",
+    "meanings": [
+      "A darkened area",
+      "A slight variation of color"
+    ],
+    "examples": [
+      "Sit in the shade.",
+      "A shade of blue."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Shallow",
+    "type": "Double",
+    "meanings": [
+      "Not deep",
+      "Lacking depth of thought"
+    ],
+    "examples": [
+      "A shallow pool.",
+      "A shallow argument."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Shingle",
+    "type": "Double",
+    "meanings": [
+      "A roofing tile",
+      "A small rounded beach pebble"
+    ],
+    "examples": [
+      "Replace the broken shingle.",
+      "A beach covered in shingle."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Shiver",
+    "type": "Double",
+    "meanings": [
+      "To tremble with cold",
+      "A small fragment"
+    ],
+    "examples": [
+      "He shivered in the wind.",
+      "A shiver of glass."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Shrink",
+    "type": "Double",
+    "meanings": [
+      "To become smaller",
+      "A psychologist"
+    ],
+    "examples": [
+      "The shirt shrank in the wash.",
+      "He talked to a shrink."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Slate",
+    "type": "Double",
+    "meanings": [
+      "A fine-grained rock",
+      "To schedule or plan"
+    ],
+    "examples": [
+      "A slate roof.",
+      "The meeting is slated for Monday."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Slice",
+    "type": "Double",
+    "meanings": [
+      "A thin piece cut from something",
+      "To cut into thin pieces"
+    ],
+    "examples": [
+      "A slice of bread.",
+      "Slice the tomatoes."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Smelt",
+    "type": "Double",
+    "meanings": [
+      "To extract metal by heating",
+      "A small fish"
+    ],
+    "examples": [
+      "They smelted iron ore.",
+      "Smelt swim in cold waters."
+    ],
+    "theme": "Nature",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Snag",
+    "type": "Double",
+    "meanings": [
+      "A problem or obstacle",
+      "To catch on something"
+    ],
+    "examples": [
+      "We hit a snag in the plan.",
+      "Her sweater snagged on a nail."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Span",
+    "type": "Double",
+    "meanings": [
+      "The full extent of something",
+      "To stretch across"
+    ],
+    "examples": [
+      "A lifespan of 80 years.",
+      "The bridge spans the river."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Spare",
+    "type": "Double",
+    "meanings": [
+      "Extra or additional",
+      "To refrain from harming"
+    ],
+    "examples": [
+      "A spare key.",
+      "Spare him the details."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Spike",
+    "type": "Double",
+    "meanings": [
+      "A sharp metal point",
+      "To increase sharply"
+    ],
+    "examples": [
+      "A spike in the ground.",
+      "Prices spiked overnight."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Split",
+    "type": "Double",
+    "meanings": [
+      "To divide into parts",
+      "A dessert made with bananas"
+    ],
+    "examples": [
+      "Split the bill.",
+      "A banana split."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Sprout",
+    "type": "Double",
+    "meanings": [
+      "To begin to grow",
+      "A young shoot"
+    ],
+    "examples": [
+      "Seeds sprout in spring.",
+      "Bean sprouts."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Stack",
+    "type": "Double",
+    "meanings": [
+      "A pile of objects",
+      "To arrange in a pile"
+    ],
+    "examples": [
+      "A stack of books.",
+      "Stack the boxes neatly."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
   }
-
-
-
+  {
+    "word": "Stampede",
+    "type": "Double",
+    "meanings": [
+      "A sudden rush of animals or people",
+      "To cause a mass panic"
+    ],
+    "examples": [
+      "A buffalo stampede shook the ground.",
+      "The announcement stampeded the crowd."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Steer",
+    "type": "Double",
+    "meanings": [
+      "To guide or control direction",
+      "A castrated male cattle"
+    ],
+    "examples": [
+      "Steer the car carefully.",
+      "A herd of steer grazed nearby."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Stern",
+       "type": "Double",
+    "meanings": [
+      "Strict or serious",
+      "The rear part of a boat"
+    ],
+    "examples": [
+      "Her stern expression silenced the room.",
+      "The fisherman sat at the stern."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Stitch",
+    "type": "Double",
+    "meanings": [
+      "To sew with thread",
+      "A sharp pain in the side"
+    ],
+    "examples": [
+      "She stitched the torn seam.",
+      "He got a stitch while running."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Stone",
+    "type": "Double",
+    "meanings": [
+      "A hard solid mineral material",
+      "To throw stones at"
+    ],
+    "examples": [
+      "A stone wall.",
+      "They stoned the fruit tree to knock down apples."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Strand",
+    "type": "Double",
+    "meanings": [
+      "A single thin length of something",
+      "To leave someone without help"
+    ],
+    "examples": [
+      "A strand of hair.",
+      "The storm stranded travelers overnight."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Strip",
+    "type": "Double",
+    "meanings": [
+      "A long narrow piece",
+      "To remove coverings or layers"
+    ],
+    "examples": [
+      "A strip of cloth.",
+      "Strip the paint from the door."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Stub",
+    "type": "Double",
+    "meanings": [
+      "A small remaining piece",
+      "To accidentally strike one's toe"
+    ],
+    "examples": [
+      "A ticket stub.",
+      "He stubbed his toe on the table."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Suit",
+    "type": "Triple",
+    "meanings": [
+      "A set of matching clothes",
+      "A legal action",
+      "To be appropriate for"
+    ],
+    "examples": [
+      "A business suit.",
+      "They filed a suit in court.",
+      "This job suits her."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Swarm",
+    "type": "Double",
+    "meanings": [
+      "A large group of insects",
+      "To move in a large crowd"
+    ],
+    "examples": [
+      "A swarm of bees.",
+      "Fans swarmed the stage."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Swing",
+    "type": "Double",
+    "meanings": [
+      "To move back and forth",
+      "A hanging seat"
+    ],
+    "examples": [
+      "The pendulum swung slowly.",
+      "The kids played on the swing."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Tack",
+    "type": "Double",
+    "meanings": [
+      "A small sharp nail",
+      "A course of action"
+    ],
+    "examples": [
+      "Use a tack to pin the paper.",
+      "We need a new tack for this project."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Tame",
+    "type": "Double",
+    "meanings": [
+      "Domesticated or gentle",
+      "To control or subdue"
+    ],
+    "examples": [
+      "A tame rabbit.",
+      "He tried to tame his anger."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Tarnish",
+    "type": "Double",
+    "meanings": [
+      "To lose luster",
+      "To damage a reputation"
+    ],
+    "examples": [
+      "Silver tarnishes over time.",
+      "The scandal tarnished his name."
+    ],
+    "theme": "Objects",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Tender",
+    "type": "Triple",
+    "meanings": [
+      "Gentle or soft",
+      "To offer formally",
+      "A small boat"
+    ],
+    "examples": [
+      "Tender feelings.",
+      "They tendered a proposal.",
+      "The ship's tender ferried passengers."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Thaw",
+    "type": "Double",
+    "meanings": [
+      "To melt or warm up",
+      "A relaxation of tension"
+    ],
+    "examples": [
+      "The ice thawed.",
+      "A thaw in relations."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Thread",
+    "type": "Double",
+    "meanings": [
+      "A thin strand of fiber",
+      "To move through narrowly"
+    ],
+    "examples": [
+      "A spool of thread.",
+      "Thread your way through the crowd."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Thrill",
+    "type": "Double",
+    "meanings": [
+      "A sudden feeling of excitement",
+      "To excite greatly"
+    ],
+    "examples": [
+      "The roller coaster was a thrill.",
+      "The news thrilled her."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Torch",
+    "type": "Double",
+    "meanings": [
+      "A handheld light",
+      "To burn deliberately"
+    ],
+    "examples": [
+      "Use a torch to see in the cave.",
+      "The vandals torched the car."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Trace",
+    "type": "Double",
+    "meanings": [
+      "A small amount",
+      "To follow or copy"
+    ],
+    "examples": [
+      "A trace of sugar.",
+      "Trace the outline."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Trail",
+    "type": "Double",
+    "meanings": [
+      "A path through nature",
+      "To follow behind"
+    ],
+    "examples": [
+      "A hiking trail.",
+      "The dog trailed its owner."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Trim",
+    "type": "Double",
+    "meanings": [
+      "To cut away excess",
+      "Decorative edging"
+    ],
+    "examples": [
+      "Trim the bushes.",
+      "The dress had lace trim."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Trophy",
+    "type": "Double",
+    "meanings": [
+      "An award for achievement",
+      "Something kept as a reminder"
+    ],
+    "examples": [
+      "She won a trophy.",
+      "A trophy from his travels."
+    ],
+    "theme": "Sports",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Tuck",
+    "type": "Double",
+    "meanings": [
+      "To fold or push into place",
+      "A small fold sewn into fabric"
+    ],
+    "examples": [
+      "Tuck in your shirt.",
+      "The dress had decorative tucks."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Vault",
+    "type": "Double",
+    "meanings": [
+      "A secure room for valuables",
+      "To jump over something"
+    ],
+    "examples": [
+      "The bank vault.",
+      "She vaulted over the fence."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  }
 
   
