@@ -1,3 +1,199 @@
 
 [
-  
+    {
+    "word": "abstruse",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "difficult to understand; obscure"
+    ],
+    "examples": [
+      "The professor's abstruse explanation left the students confused."
+    ],
+    "theme": "clarity",
+    "mastery": 0
+  },
+  {
+    "word": "brevity",
+    "type": "noun",
+    "difficulty": "double",
+    "meanings": [
+      "concise and exact use of words"
+    ],
+    "examples": [
+      "The speech was praised for its clarity and brevity."
+    ],
+    "theme": "communication",
+    "mastery": 0
+  },
+  {
+    "word": "cogent",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "clear, logical, and convincing"
+    ],
+    "examples": [
+      "She presented a cogent argument that persuaded the entire panel."
+    ],
+    "theme": "logic",
+    "mastery": 0
+  },
+  {
+    "word": "dissonance",
+    "type": "noun",
+    "difficulty": "quadruple",
+    "meanings": [
+      "a lack of harmony or agreement"
+    ],
+    "examples": [
+      "There was a clear dissonance between his words and actions."
+    ],
+    "theme": "emotion",
+    "mastery": 0
+  },
+  {
+    "word": "elucidate",
+    "type": "verb",
+    "difficulty": "triple",
+    "meanings": [
+      "to make something clear; to explain"
+    ],
+    "examples": [
+      "The teacher tried to elucidate the complex theory."
+    ],
+    "theme": "clarity",
+    "mastery": 0
+  },
+  {
+    "word": "fortuitous",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "happening by chance, often in a beneficial way"
+    ],
+    "examples": [
+      "Their meeting was entirely fortuitous but changed everything."
+    ],
+    "theme": "events",
+    "mastery": 0
+  },
+  {
+    "word": "garrulous",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "excessively talkative, especially on trivial matters"
+    ],
+    "examples": [
+      "The garrulous host dominated the conversation."
+    ],
+    "theme": "behavior",
+    "mastery": 0
+  },
+  {
+    "word": "hedonistic",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "engaged in the pursuit of pleasure; self‑indulgent"
+    ],
+    "examples": [
+      "His hedonistic lifestyle eventually caught up with him."
+    ],
+    "theme": "lifestyle",
+    "mastery": 0
+  },
+  {
+    "word": "implacable",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "unable to be appeased or calmed"
+    ],
+    "examples": [
+      "The implacable storm battered the coast for hours."
+    ],
+    "theme": "emotion",
+    "mastery": 0
+  },
+  {
+    "word": "juxtapose",
+    "type": "verb",
+    "difficulty": "triple",
+    "meanings": [
+      "to place things side by side for comparison"
+    ],
+    "examples": [
+      "The exhibit juxtaposed modern art with classical sculptures."
+    ],
+    "theme": "art",
+    "mastery": 0
+  },
+  {
+    "word": "kinetic",
+    "type": "adjective",
+    "difficulty": "double",
+    "meanings": [
+      "relating to or resulting from motion"
+    ],
+    "examples": [
+      "The sculpture had a kinetic element that moved with the wind."
+    ],
+    "theme": "science",
+    "mastery": 0
+  },
+  {
+    "word": "laconic",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "using very few words"
+    ],
+    "examples": [
+      "His laconic reply suggested he was annoyed."
+    ],
+    "theme": "communication",
+    "mastery": 0
+  },
+  {
+    "word": "mendacious",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "not telling the truth; lying"
+    ],
+    "examples": [
+      "The report was full of mendacious claims."
+    ],
+    "theme": "behavior",
+    "mastery": 0
+  },
+  {
+    "word": "nebulous",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "unclear, vague, or ill‑defined"
+    ],
+    "examples": [
+      "His explanation was so nebulous that no one understood."
+    ],
+    "theme": "clarity",
+    "mastery": 0
+  },
+  {
+    "word": "obfuscate",
+    "type": "verb",
+    "difficulty": "quadruple",
+    "meanings": [
+      "to make something unclear or difficult to understand"
+    ],
+    "examples": [
+      "The company tried to obfuscate the details of the contract."
+    ],
+    "theme": "clarity",
+    "mastery": 0
+  }
+,
+
