@@ -1,29 +1,3 @@
 
 [
-  {
-    "word": "aberration",
-    "type": "noun",
-    "difficulty": "triple",
-    "meanings": [
-      "a departure from what is normal or expected"
-    ],
-    "examples": [
-      "His angry outburst was an aberration from his usual calm behavior."
-    ],
-    "theme": "behavior",
-    "mastery": 0
-  },
-  {
-    "word": "lucid",
-    "type": "adjective",
-    "difficulty": "double",
-    "meanings": [
-      "expressed clearly; easy to understand"
-    ],
-    "examples": [
-      "She gave a lucid explanation of the problem."
-    ],
-    "theme": "clarity",
-    "mastery": 0
-  }
-]
+  
