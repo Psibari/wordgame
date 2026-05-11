@@ -195,5 +195,153 @@
     "theme": "clarity",
     "mastery": 0
   }
+,  {
+    "word": "parsimony",
+    "type": "noun",
+    "difficulty": "quadruple",
+    "meanings": [
+      "extreme unwillingness to spend money or use resources"
+    ],
+    "examples": [
+      "His parsimony was so severe that he reused teabags three times."
+    ],
+    "theme": "behavior",
+    "mastery": 0
+  },
+  {
+    "word": "quell",
+    "type": "verb",
+    "difficulty": "double",
+    "meanings": [
+      "to put an end to something, typically by force",
+      "to suppress or pacify"
+    ],
+    "examples": [
+      "The leader tried to quell the growing unrest."
+    ],
+    "theme": "conflict",
+    "mastery": 0
+  },
+  {
+    "word": "recalcitrant",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "stubbornly resistant to authority or control"
+    ],
+    "examples": [
+      "The recalcitrant student refused to follow any instructions."
+    ],
+    "theme": "behavior",
+    "mastery": 0
+  },
+  {
+    "word": "sagacious",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "having or showing keen mental discernment and good judgment"
+    ],
+    "examples": [
+      "Her sagacious advice saved the company from disaster."
+    ],
+    "theme": "wisdom",
+    "mastery": 0
+  },
+  {
+    "word": "taciturn",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "reserved or uncommunicative in speech"
+    ],
+    "examples": [
+      "He remained taciturn throughout the entire meeting."
+    ],
+    "theme": "communication",
+    "mastery": 0
+  },
+  {
+    "word": "ubiquitous",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "present, appearing, or found everywhere"
+    ],
+    "examples": [
+      "Smartphones have become ubiquitous in modern society."
+    ],
+    "theme": "society",
+    "mastery": 0
+  },
+  {
+    "word": "venerate",
+    "type": "verb",
+    "difficulty": "double",
+    "meanings": [
+      "to regard with great respect"
+    ],
+    "examples": [
+      "They venerate their ancestors through annual ceremonies."
+    ],
+    "theme": "culture",
+    "mastery": 0
+  },
+  {
+    "word": "wistful",
+    "type": "adjective",
+    "difficulty": "double",
+    "meanings": [
+      "having or showing a feeling of vague or regretful longing"
+    ],
+    "examples": [
+      "She gave a wistful smile as she looked at the old photograph."
+    ],
+    "theme": "emotion",
+    "mastery": 0
+  },
+  {
+    "word": "xenial",
+    "type": "adjective",
+    "difficulty": "quadruple",
+    "meanings": [
+      "relating to hospitality between host and guest"
+    ],
+    "examples": [
+      "The xenial traditions of the village made visitors feel welcome."
+    ],
+    "theme": "culture",
+    "mastery": 0
+  },
+  {
+    "word": "yoke",
+    "type": "verb",
+    "difficulty": "double",
+    "meanings": [
+      "to join or link together",
+      "to bind or connect"
+    ],
+    "examples": [
+      "The project yoked together experts from multiple fields."
+    ],
+    "theme": "connection",
+    "mastery": 0
+  },
+  {
+    "word": "zealous",
+    "type": "adjective",
+    "difficulty": "triple",
+    "meanings": [
+      "showing great energy or enthusiasm in pursuit of a cause"
+    ],
+    "examples": [
+      "The volunteers were zealous in their efforts to clean the park."
+    ],
+    "theme": "emotion",
+    "mastery": 0
+  }
 ,
+
+ 
+
 
