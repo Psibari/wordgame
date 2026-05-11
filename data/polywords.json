@@ -341,7 +341,1355 @@
     "difficulty": "Medium",
     "mastery": 0
   },
+  {
+    "word": "Crane",
+    "type": "Triple",
+    "meanings": [
+      "A tall wading bird",
+      "A machine for lifting",
+      "To stretch the neck to see"
+    ],
+    "examples": [
+      "A crane fished in the shallows.",
+      "The construction crane rose high.",
+      "She craned to see the parade."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Bear",
+    "type": "Double",
+    "meanings": [
+      "A large furry mammal",
+      "To tolerate or endure something"
+    ],
+    "examples": [
+      "The bear roamed through the forest.",
+      "I can't bear this noise anymore."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Sink",
+    "type": "Double",
+    "meanings": [
+      "A basin for washing in a kitchen",
+      "To go below the surface of water"
+    ],
+    "examples": [
+      "She washed the dishes in the sink.",
+      "The heavy stone began to sink."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Tire",
+    "type": "Double",
+    "meanings": [
+      "A rubber covering on a wheel",
+      "To become weary or fatigued"
+    ],
+    "examples": [
+      "The car had a flat tire.",
+      "Long walks tire me out quickly."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Bowl",
+    "type": "Double",
+    "meanings": [
+      "A round dish for food",
+      "To roll a ball in a sport"
+    ],
+    "examples": [
+      "She poured cereal into a bowl.",
+      "He bowled a perfect strike."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Pen",
+    "type": "Quadruple",
+    "meanings": [
+      "A writing instrument",
+      "An animal enclosure",
+      "A prison",
+      "To write or compose"
+    ],
+    "examples": [
+      "She used a pen.",
+      "A pig pen.",
+      "Time in the pen.",
+      "She penned a letter."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Palm",
+    "type": "Quadruple",
+    "meanings": [
+      "The inner hand surface",
+      "A tropical tree",
+      "To conceal in hand",
+      "To pass off deceptively"
+    ],
+    "examples": [
+      "She read his palm.",
+      "Palm trees swayed.",
+      "He palmed the coin.",
+      "Palmed off a fake."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Plane",
+    "type": "Double",
+    "meanings": [
+      "An aircraft",
+      "A flat, level surface"
+    ],
+    "examples": [
+      "The plane landed safely.",
+      "The carpenter checked the smooth plane."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Star",
+    "type": "Quadruple",
+    "meanings": [
+      "A celestial body",
+      "A famous person",
+      "To have the main role",
+      "A pointed shape"
+    ],
+    "examples": [
+      "Stars twinkled above.",
+      "A movie star.",
+      "She starred in the film.",
+      "A five-pointed star."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Fan",
+    "type": "Quadruple",
+    "meanings": [
+      "An airflow device",
+      "An enthusiast",
+      "To spread out",
+      "To intensify"
+    ],
+    "examples": [
+      "The ceiling fan.",
+      "A sports fan.",
+      "She fanned the cards.",
+      "Winds fanned the flames."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Key",
+    "type": "Quadruple",
+    "meanings": [
+      "A tool for locks",
+      "Crucial",
+      "A musical tonality",
+      "A keyboard button"
+    ],
+    "examples": [
+      "She turned the key.",
+      "Timing is key.",
+      "The key of G major.",
+      "Press the enter key."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Yard",
+    "type": "Double",
+    "meanings": [
+      "An area of land next to a house",
+      "A unit of measurement equal to three feet"
+    ],
+    "examples": [
+      "The kids played in the yard.",
+      "The fabric costs ten dollars a yard."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Ball",
+    "type": "Double",
+    "meanings": [
+      "A round object used in games",
+      "A formal dance event"
+    ],
+    "examples": [
+      "Throw the ball to me.",
+      "They attended a grand ball."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Mole",
+    "type": "Double",
+    "meanings": [
+      "A small burrowing mammal",
+      "A dark spot on the skin"
+    ],
+    "examples": [
+      "A mole dug tunnels in the garden.",
+      "She had a small mole on her cheek."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Cast",
+    "type": "Double",
+    "meanings": [
+      "To throw or fling something",
+      "The actors in a film or play"
+    ],
+    "examples": [
+      "He cast the fishing line into the water.",
+      "The cast took a bow after the show."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Gum",
+    "type": "Double",
+    "meanings": [
+      "A chewy candy",
+      "The tissue surrounding the teeth"
+    ],
+    "examples": [
+      "She chewed a piece of mint gum.",
+      "His gums were sore after the dental visit."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Clip",
+    "type": "Double",
+    "meanings": [
+      "A fastener for holding things together",
+      "To cut or trim something"
+    ],
+    "examples": [
+      "She used a clip to hold the papers.",
+      "He clipped the hedge neatly."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Rock",
+    "type": "Quadruple",
+    "meanings": [
+      "A piece of stone",
+      "A music genre",
+      "To sway gently",
+      "A diamond in slang"
+    ],
+    "examples": [
+      "She skipped a rock.",
+      "Classic rock.",
+      "She rocked the baby.",
+      "Check out her rock."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Mouse",
+    "type": "Double",
+    "meanings": [
+      "A small rodent",
+      "A computer input device"
+    ],
+    "examples": [
+      "A mouse ran across the kitchen floor.",
+      "Click the left mouse button."
+    ],
+    "theme": "Animals",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Log",
+    "type": "Double",
+    "meanings": [
+      "A thick piece of cut wood",
+      "A record of events or data"
+    ],
+    "examples": [
+      "He tossed a log onto the fire.",
+      "The captain wrote in the ship's log."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  }  {
+    "word": "Chip",
+    "type": "Double",
+    "meanings": [
+      "A thin slice of fried potato",
+      "A small piece of computer circuitry"
+    ],
+    "examples": [
+      "She ate a bag of chips.",
+      "The chip stores data electronically."
+    ],
+    "theme": "Food",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Pupil",
+    "type": "Double",
+    "meanings": [
+      "A student in school",
+      "The dark center of the eye"
+    ],
+    "examples": [
+      "The pupil raised her hand.",
+      "The pupil dilates in dim light."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Ruler",
+    "type": "Double",
+    "meanings": [
+      "A measuring stick",
+      "A person who governs"
+    ],
+    "examples": [
+      "He drew a straight line with a ruler.",
+      "The ruler addressed the nation."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Stamp",
+    "type": "Double",
+    "meanings": [
+      "A small adhesive label for postage",
+      "To bring the foot down heavily"
+    ],
+    "examples": [
+      "She stuck a stamp on the envelope.",
+      "He stamped his foot in frustration."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Trunk",
+    "type": "Double",
+    "meanings": [
+      "The main stem of a tree",
+      "A storage compartment in a car"
+    ],
+    "examples": [
+      "The trunk of the oak was massive.",
+      "She put the groceries in the trunk."
+    ],
+    "theme": "Nature",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Horn",
+    "type": "Quadruple",
+    "meanings": [
+      "An animal growth",
+      "A musical instrument",
+      "A vehicle honker",
+      "A material substance"
+    ],
+    "examples": [
+      "The bull's horns.",
+      "The French horn.",
+      "Honk the horn.",
+      "A horn cup."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Bolt",
+    "type": "Double",
+    "meanings": [
+      "A metal fastener used with a nut",
+      "A flash of lightning"
+    ],
+    "examples": [
+      "Tighten the bolt with a wrench.",
+      "A bolt of lightning lit up the sky."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Cord",
+    "type": "Double",
+    "meanings": [
+      "A length of rope or string",
+      "An electrical wire with a plug"
+    ],
+    "examples": [
+      "He tied the package with cord.",
+      "Plug the cord into the outlet."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Scale",
+    "type": "Quadruple",
+    "meanings": [
+      "A weighing device",
+      "A thin plate on fish",
+      "To climb",
+      "Relative size"
+    ],
+    "examples": [
+      "Step on the scale.",
+      "Silver fish scales.",
+      "They scaled the cliff.",
+      "The scale of the project."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Slide",
+    "type": "Double",
+    "meanings": [
+      "A playground structure for children",
+      "To move smoothly along a surface"
+    ],
+    "examples": [
+      "The kids went down the slide.",
+      "She slid the book across the table."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Lead",
+    "type": "Quadruple",
+    "meanings": [
+      "To guide",
+      "A metallic element",
+      "The main role",
+      "A dog leash"
+    ],
+    "examples": [
+      "She led the team.",
+      "Lead is heavy.",
+      "The lead actor.",
+      "Keep the dog on a lead."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Current",
+    "type": "Double",
+    "meanings": [
+      "Happening now; present",
+      "A flow of water, air, or electricity"
+    ],
+    "examples": [
+      "I follow current events.",
+      "The river current was strong."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Draft",
+    "type": "Quadruple",
+    "meanings": [
+      "A preliminary version",
+      "A cool air current",
+      "Military selection",
+      "Beer from a cask"
+    ],
+    "examples": [
+      "The first draft.",
+      "A cold draft.",
+      "He was drafted.",
+      "A draft beer."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Capital",
+    "type": "Double",
+    "meanings": [
+      "A city where government is based",
+      "Wealth or money available for investment"
+    ],
+    "examples": [
+      "Paris is the capital of France.",
+      "He invested his capital wisely."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Compound",
+    "type": "Double",
+    "meanings": [
+      "A mixture of chemical elements",
+      "An enclosed area with buildings"
+    ],
+    "examples": [
+      "Water is a chemical compound.",
+      "They lived in a guarded compound."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Close",
+    "type": "Double",
+    "meanings": [
+      "To shut something",
+      "Near in distance or time"
+    ],
+    "examples": [
+      "Please close the door behind you.",
+      "The school is close to my house."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Season",
+    "type": "Double",
+    "meanings": [
+      "A division of the year",
+      "To add flavor with spices"
+    ],
+    "examples": [
+      "Autumn is my favorite season.",
+      "Season the soup with salt and pepper."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Foil",
+    "type": "Double",
+    "meanings": [
+      "A thin sheet of metal",
+      "To prevent someone from succeeding"
+    ],
+    "examples": [
+      "Wrap the leftovers in aluminum foil.",
+      "The detective foiled the robbery attempt."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Litter",
+    "type": "Double",
+    "meanings": [
+      "Trash scattered in a public place",
+      "A group of baby animals born together"
+    ],
+    "examples": [
+      "Please don't litter in the park.",
+      "The cat had a litter of five kittens."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Volume",
+    "type": "Double",
+    "meanings": [
+      "The loudness of a sound",
+      "A single book in a series"
+    ],
+    "examples": [
+      "Turn down the volume on the TV.",
+      "I read the first volume of the trilogy."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  }  {
+    "word": "Pitcher",
+    "type": "Double",
+    "meanings": [
+      "A container for pouring liquids",
+      "The player who throws in baseball"
+    ],
+    "examples": [
+      "She filled the pitcher with lemonade.",
+      "The pitcher threw a fastball."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Organ",
+    "type": "Triple",
+    "meanings": [
+      "A body part with a function",
+      "A large keyboard instrument",
+      "A newspaper or publication"
+    ],
+    "examples": [
+      "The heart is a vital organ.",
+      "He played the pipe organ.",
+      "The official organ of the party."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Racket",
+    "type": "Double",
+    "meanings": [
+      "Equipment used to hit a ball in tennis",
+      "A loud, disturbing noise"
+    ],
+    "examples": [
+      "She gripped her tennis racket.",
+      "The construction made a terrible racket."
+    ],
+    "theme": "Sports",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Drill",
+    "type": "Double",
+    "meanings": [
+      "A tool for making holes",
+      "A practice exercise or rehearsal"
+    ],
+    "examples": [
+      "He used a drill to bore into the wall.",
+      "The team ran through the fire drill."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Tackle",
+    "type": "Double",
+    "meanings": [
+      "Fishing or sports equipment",
+      "To physically bring someone down"
+    ],
+    "examples": [
+      "He packed his fishing tackle.",
+      "The defender tackled the runner."
+    ],
+    "theme": "Sports",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Plot",
+    "type": "Triple",
+    "meanings": [
+      "The storyline of a book or film",
+      "A small piece of land",
+      "To plan secretly"
+    ],
+    "examples": [
+      "The plot had many twists.",
+      "A garden plot.",
+      "They plotted against the king."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Sole",
+    "type": "Double",
+    "meanings": [
+      "The bottom of a shoe",
+      "The only one"
+    ],
+    "examples": [
+      "The sole of his boot was worn out.",
+      "She was the sole survivor."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Arms",
+    "type": "Double",
+    "meanings": [
+      "Body parts from shoulder to hand",
+      "Weapons or firearms"
+    ],
+    "examples": [
+      "She stretched her arms wide.",
+      "The soldiers carried arms."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Beam",
+    "type": "Double",
+    "meanings": [
+      "A ray of light",
+      "A long sturdy piece of timber or metal"
+    ],
+    "examples": [
+      "A beam of sunlight pierced the clouds.",
+      "The wooden beam supported the ceiling."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Coast",
+    "type": "Double",
+    "meanings": [
+      "The land along the sea",
+      "To move without effort or power"
+    ],
+    "examples": [
+      "They drove along the coast.",
+      "The car coasted down the hill."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Mug",
+    "type": "Double",
+    "meanings": [
+      "A large drinking cup with a handle",
+      "To rob someone by force in public"
+    ],
+    "examples": [
+      "She sipped coffee from her mug.",
+      "He was mugged on a dark street."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Toast",
+    "type": "Double",
+    "meanings": [
+      "Bread browned by heat",
+      "A tribute spoken while raising glasses"
+    ],
+    "examples": [
+      "She had toast with butter for breakfast.",
+      "He raised a toast to the bride and groom."
+    ],
+    "theme": "Food",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Swallow",
+    "type": "Double",
+    "meanings": [
+      "A small migratory bird",
+      "To pass food or drink down the throat"
+    ],
+    "examples": [
+      "A swallow darted through the barn.",
+      "Chew your food before you swallow."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Hood",
+    "type": "Triple",
+    "meanings": [
+      "A head covering on a garment",
+      "The cover over a car engine",
+      "A neighborhood in slang"
+    ],
+    "examples": [
+      "She pulled up her hood.",
+      "Pop open the hood.",
+      "He grew up in the hood."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Stable",
+    "type": "Double",
+    "meanings": [
+      "Steady and not likely to change",
+      "A building where horses are kept"
+    ],
+    "examples": [
+      "The patient's condition is stable.",
+      "She led the horse back to the stable."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Novel",
+    "type": "Double",
+    "meanings": [
+      "A long fictional book",
+      "New and original"
+    ],
+    "examples": [
+      "She published her first novel.",
+      "That's a novel approach to the problem."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Sign",
+    "type": "Quadruple",
+    "meanings": [
+      "A display board",
+      "To write a signature",
+      "An indication",
+      "Communicating in sign language"
+    ],
+    "examples": [
+      "The road sign.",
+      "Sign the form.",
+      "A sign of rain.",
+      "She learned to sign."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Pound",
+    "type": "Quadruple",
+    "meanings": [
+      "A weight unit",
+      "British currency",
+      "To hit repeatedly",
+      "An animal enclosure"
+    ],
+    "examples": [
+      "Five pounds of flour.",
+      "Ten pounds sterling.",
+      "He pounded the door.",
+      "Adopted from the pound."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Tip",
+    "type": "Quadruple",
+    "meanings": [
+      "A pointed end",
+      "A service payment",
+      "A piece of advice",
+      "To tilt over"
+    ],
+    "examples": [
+      "The tip of the iceberg.",
+      "Leave a tip.",
+      "A helpful tip.",
+      "The boat tipped."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Order",
+    "type": "Quadruple",
+    "meanings": [
+      "A sequence",
+      "A request for goods",
+      "A command",
+      "Proper arrangement"
+    ],
+    "examples": [
+      "Alphabetical order.",
+      "An online order.",
+      "The general's order.",
+      "Restored order."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  }  {
+    "word": "File",
+    "type": "Quadruple",
+    "meanings": [
+      "A document folder",
+      "A smoothing tool",
+      "To walk in line",
+      "To submit officially"
+    ],
+    "examples": [
+      "In the file cabinet.",
+      "A nail file.",
+      "They filed out.",
+      "File your taxes."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Mine",
+    "type": "Quadruple",
+    "meanings": [
+      "Belonging to me",
+      "A mineral excavation",
+      "An explosive device",
+      "To extract resources"
+    ],
+    "examples": [
+      "That is mine.",
+      "A gold mine.",
+      "A land mine.",
+      "They mined copper."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Chest",
+    "type": "Double",
+    "meanings": [
+      "The front of the body below the neck",
+      "A large strong box for storage"
+    ],
+    "examples": [
+      "He felt a pain in his chest.",
+      "The treasure chest was buried on the island."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Bass",
+    "type": "Triple",
+    "meanings": [
+      "A freshwater fish",
+      "The lowest range of musical notes",
+      "Deep and low in sound"
+    ],
+    "examples": [
+      "He caught a large bass.",
+      "He sang the bass line.",
+      "A bass voice filled the room."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Bill",
+    "type": "Quadruple",
+    "meanings": [
+      "A statement of charges",
+      "A bird's beak",
+      "A proposed law",
+      "Paper money"
+    ],
+    "examples": [
+      "The electric bill.",
+      "The pelican's bill.",
+      "A congressional bill.",
+      "A twenty-dollar bill."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Stall",
+    "type": "Double",
+    "meanings": [
+      "A booth or stand for selling goods",
+      "To delay or stop progress"
+    ],
+    "examples": [
+      "She set up a stall at the market.",
+      "Don't stall — give me an answer."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Root",
+    "type": "Double",
+    "meanings": [
+      "The underground part of a plant",
+      "The basic cause or origin of something"
+    ],
+    "examples": [
+      "The tree's roots spread wide.",
+      "Money is the root of many problems."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Interest",
+    "type": "Quadruple",
+    "meanings": [
+      "Curiosity",
+      "Money on savings",
+      "A share in something",
+      "To engage attention"
+    ],
+    "examples": [
+      "She showed interest.",
+      "Earns interest.",
+      "A business interest.",
+      "It interested her."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Address",
+    "type": "Double",
+    "meanings": [
+      "A location where someone lives",
+      "To speak to an audience"
+    ],
+    "examples": [
+      "Write your address on the form.",
+      "The president will address the nation."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Lap",
+    "type": "Double",
+    "meanings": [
+      "The flat area formed by the thighs when sitting",
+      "One circuit of a track"
+    ],
+    "examples": [
+      "The cat curled up in her lap.",
+      "She completed the final lap of the race."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Content",
+    "type": "Double",
+    "meanings": [
+      "The material inside something",
+      "Feeling satisfied and happy"
+    ],
+    "examples": [
+      "The content of the report was detailed.",
+      "She felt content with her life."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Patient",
+    "type": "Double",
+    "meanings": [
+      "A person receiving medical treatment",
+      "Able to wait calmly without complaint"
+    ],
+    "examples": [
+      "The patient waited for the doctor.",
+      "Be patient — your turn will come."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Express",
+    "type": "Double",
+    "meanings": [
+      "To communicate thoughts or feelings",
+      "A fast service with few stops"
+    ],
+    "examples": [
+      "She expressed her gratitude clearly.",
+      "Take the express train to the city."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Saw",
+    "type": "Double",
+    "meanings": [
+      "A cutting tool with a toothed blade",
+      "Past tense of see"
+    ],
+    "examples": [
+      "He used a saw to cut the wood.",
+      "I saw a deer in the woods yesterday."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Second",
+    "type": "Quadruple",
+    "meanings": [
+      "A time unit",
+      "After the first",
+      "To support formally",
+      "Another helping"
+    ],
+    "examples": [
+      "One second.",
+      "Second place.",
+      "I second the motion.",
+      "Would you like seconds?"
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Story",
+    "type": "Quadruple",
+    "meanings": [
+      "A narrative",
+      "A building floor",
+      "A news report",
+      "A personal account"
+    ],
+    "examples": [
+      "A bedtime story.",
+      "The fifth story.",
+      "Breaking the story.",
+      "The story of his life."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Iron",
+    "type": "Quadruple",
+    "meanings": [
+      "A metallic element",
+      "A pressing device",
+      "A golf club type",
+      "To smooth clothes"
+    ],
+    "examples": [
+      "An iron gate.",
+      "Heat the iron.",
+      "A five iron.",
+      "She ironed her shirt."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Letter",
+    "type": "Double",
+    "meanings": [
+      "A character of the alphabet",
+      "A written message sent by mail"
+    ],
+    "examples": [
+      "The word 'cat' starts with the letter C.",
+      "She received a letter from an old friend."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Down",
+    "type": "Triple",
+    "meanings": [
+      "Toward a lower position",
+      "Soft fine feathers",
+      "Feeling sad or depressed"
+    ],
+    "examples": [
+      "Walk down the stairs.",
+      "A down-filled pillow.",
+      "She's been feeling down lately."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Foot",
+    "type": "Quadruple",
+    "meanings": [
+      "The body part below the ankle",
+      "A measurement unit",
+      "The base of something",
+      "To pay the bill"
+    ],
+    "examples": [
+      "She hurt her foot.",
+      "Six feet tall.",
+      "The foot of the hill.",
+      "I'll foot the bill."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Spot",
+    "type": "Quadruple",
+    "meanings": [
+      "A location",
+      "A mark or stain",
+      "To notice",
+      "A brief advertisement"
+    ],
+    "examples": [
+      "A nice spot.",
+      "A grease spot.",
+      "She spotted him.",
+      "A TV spot."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Staff",
+    "type": "Quadruple",
+    "meanings": [
+      "Employees",
+      "A walking stick",
+      "Music notation lines",
+      "To provide workers"
+    ],
+    "examples": [
+      "The staff meeting.",
+      "A wooden staff.",
+      "Notes on the staff.",
+      "They staffed the event."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Block",
+    "type": "Double",
+    "meanings": [
+      "A solid piece of hard material",
+      "To obstruct or prevent passage"
+    ],
+    "examples": [
+      "The child stacked wooden blocks.",
+      "A fallen tree blocked the road."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  }
 
-  <!-- CHUNK CONTINUES… -->
-
-
+  
