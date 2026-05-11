@@ -593,7 +593,90 @@
     "theme": "Actions",
     "difficulty": "Easy",
     "mastery": 0
+  }  {
+    "word": "Scale",
+    "type": "Triple",
+    "meanings": [
+      "A device for measuring weight",
+      "The outer covering of a fish or reptile",
+      "To climb up something"
+    ],
+    "examples": [
+      "He stepped on the scale.",
+      "The fish had shiny scales.",
+      "They scaled the cliff face."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Current",
+    "type": "Triple",
+    "meanings": [
+      "A flow of water or air",
+      "Present time",
+      "A flow of electricity"
+    ],
+    "examples": [
+      "The river current was strong.",
+      "The current situation is improving.",
+      "Electric current flows through the wire."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Fair",
+    "type": "Triple",
+    "meanings": [
+      "Just or impartial",
+      "A festival or carnival",
+      "Light in complexion"
+    ],
+    "examples": [
+      "That was a fair decision.",
+      "We went to the county fair.",
+      "She had fair skin and blue eyes."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "File",
+    "type": "Triple",
+    "meanings": [
+      "A folder or document",
+      "A tool for smoothing surfaces",
+      "To submit or record formally"
+    ],
+    "examples": [
+      "She saved the file.",
+      "He used a metal file.",
+      "They filed a complaint."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Trip",
+    "type": "Triple",
+    "meanings": [
+      "A journey or excursion",
+      "To stumble or lose balance",
+      "To activate or trigger"
+    ],
+    "examples": [
+      "They took a trip to the mountains.",
+      "He tripped on the curb.",
+      "The sensor tripped the alarm."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
   }
-
 
 
