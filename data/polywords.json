@@ -173,7 +173,90 @@
     "theme": "Food",
     "difficulty": "Easy",
     "mastery": 0
+  }  {
+    "word": "Match",
+    "type": "Quadruple",
+    "meanings": [
+      "A sports competition",
+      "A stick for lighting fire",
+      "Something equal or similar",
+      "To correspond or equal"
+    ],
+    "examples": [
+      "The tennis match was exciting.",
+      "He struck a match.",
+      "The colors are a perfect match.",
+      "Her skills match the job."
+    ],
+    "theme": "Sports",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Nail",
+    "type": "Double",
+    "meanings": [
+      "A metal fastener hammered into wood",
+      "The hard covering on a fingertip"
+    ],
+    "examples": [
+      "He drove the nail into the wall.",
+      "She painted her nails bright red."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Seal",
+    "type": "Quadruple",
+    "meanings": [
+      "A marine mammal",
+      "To close tightly",
+      "A stamp of authenticity",
+      "To finalize"
+    ],
+    "examples": [
+      "Seals lay on the rocks.",
+      "Seal the envelope.",
+      "The royal seal.",
+      "They sealed the deal."
+    ],
+    "theme": "Animals",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Train",
+    "type": "Double",
+    "meanings": [
+      "A rail vehicle for transport",
+      "To teach or coach someone"
+    ],
+    "examples": [
+      "The train arrived at the station.",
+      "She will train the new employees."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Row",
+    "type": "Double",
+    "meanings": [
+      "A line of things arranged side by side",
+      "To propel a boat with oars"
+    ],
+    "examples": [
+      "They sat in the front row.",
+      "They rowed across the calm lake."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
   }
+
 
    
 
