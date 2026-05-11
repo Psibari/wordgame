@@ -5476,6 +5476,189 @@
     "theme": "Objects",
     "difficulty": "Medium",
     "mastery": 0
+  }  {
+    "word": "Veil",
+    "type": "Double",
+    "meanings": [
+      "A piece of cloth worn to cover the face",
+      "To conceal or obscure"
+    ],
+    "examples": [
+      "The bride lifted her veil.",
+      "His expression was veiled."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Vessel",
+    "type": "Double",
+    "meanings": [
+      "A ship or boat",
+      "A container for holding liquids"
+    ],
+    "examples": [
+      "A large cargo vessel.",
+      "Pour the mixture into a vessel."
+    ],
+    "theme": "Objects",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Vigor",
+    "type": "Double",
+    "meanings": [
+      "Physical strength and energy",
+      "Intensity of action"
+    ],
+    "examples": [
+      "She attacked the task with vigor.",
+      "The debate continued with vigor."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Wane",
+    "type": "Double",
+    "meanings": [
+      "To decrease gradually",
+      "The shrinking of the moon's illuminated area"
+    ],
+    "examples": [
+      "Interest began to wane.",
+      "The moon is waning tonight."
+    ],
+    "theme": "Nature",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Wharf",
+    "type": "Double",
+    "meanings": [
+      "A structure where ships load and unload",
+      "To moor a ship"
+    ],
+    "examples": [
+      "The boat pulled up to the wharf.",
+      "They wharfed the vessel securely."
+    ],
+    "theme": "Objects",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Whip",
+    "type": "Double",
+    "meanings": [
+      "A tool used for striking",
+      "To beat ingredients rapidly"
+    ],
+    "examples": [
+      "The horseman cracked the whip.",
+      "Whip the cream until fluffy."
+    ],
+    "theme": "Objects",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Widen",
+    "type": "Double",
+    "meanings": [
+      "To make wider",
+      "To expand in range"
+    ],
+    "examples": [
+      "Widen the doorway.",
+      "The investigation widened."
+    ],
+    "theme": "Actions",
+    "difficulty": "Easy",
+    "mastery": 0
+  },
+  {
+    "word": "Wince",
+    "type": "Double",
+    "meanings": [
+      "To flinch in pain",
+      "A slight shrinking movement"
+    ],
+    "examples": [
+      "He winced at the injection.",
+      "A wince crossed her face."
+    ],
+    "theme": "Actions",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Wring",
+    "type": "Double",
+    "meanings": [
+      "To twist and squeeze",
+      "To extract by force"
+    ],
+    "examples": [
+      "Wring out the towel.",
+      "They tried to wring a confession from him."
+    ],
+    "theme": "Actions",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Yield",
+    "type": "Triple",
+    "meanings": [
+      "To produce or provide",
+      "To give way or surrender",
+      "Profit or return"
+    ],
+    "examples": [
+      "The farm yields corn.",
+      "Yield to oncoming traffic.",
+      "A high‑yield investment."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Medium",
+    "mastery": 0
+  },
+  {
+    "word": "Zeal",
+    "type": "Double",
+    "meanings": [
+      "Great enthusiasm",
+      "Passionate devotion"
+    ],
+    "examples": [
+      "She pursued the project with zeal.",
+      "Religious zeal shaped the movement."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Hard",
+    "mastery": 0
+  },
+  {
+    "word": "Zenith",
+    "type": "Double",
+    "meanings": [
+      "The highest point",
+      "The peak of success or power"
+    ],
+    "examples": [
+      "The sun reached its zenith.",
+      "The company was at its zenith."
+    ],
+    "theme": "Abstract Ideas",
+    "difficulty": "Hard",
+    "mastery": 0
   }
+]
+
 
   
