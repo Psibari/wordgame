@@ -1,4 +1,3 @@
-
 [
   {
     "word": "Bank",
@@ -86,7 +85,7 @@
     "theme": "Food",
     "difficulty": "Medium",
     "mastery": 0
-  }
+  },
   {
     "word": "Can",
     "type": "Double",
@@ -173,7 +172,8 @@
     "theme": "Food",
     "difficulty": "Easy",
     "mastery": 0
-  }  {
+  },
+  {
     "word": "Match",
     "type": "Quadruple",
     "meanings": [
@@ -217,7 +217,7 @@
       "To finalize"
     ],
     "examples": [
-      "Seals lay on the rocks.",
+      "Seals on the rocks.",
       "Seal the envelope.",
       "The royal seal.",
       "They sealed the deal."
@@ -255,8 +255,8 @@
     "theme": "Actions",
     "difficulty": "Easy",
     "mastery": 0
-  }
-   {
+  },
+  {
     "word": "Park",
     "type": "Double",
     "meanings": [
@@ -340,343 +340,8 @@
     "theme": "Objects",
     "difficulty": "Medium",
     "mastery": 0
-  }
-  {
-    "word": "Crane",
-    "type": "Triple",
-    "meanings": [
-      "A tall wading bird",
-      "A machine for lifting",
-      "To stretch the neck to see"
-    ],
-    "examples": [
-      "A crane fished in the shallows.",
-      "The construction crane rose high.",
-      "She craned to see the parade."
-    ],
-    "theme": "Animals",
-    "difficulty": "Easy",
-    "mastery": 0
   },
-  {
-    "word": "Bear",
-    "type": "Double",
-    "meanings": [
-      "A large furry mammal",
-      "To tolerate or endure something"
-    ],
-    "examples": [
-      "The bear roamed through the forest.",
-      "I can't bear this noise anymore."
-    ],
-    "theme": "Animals",
-    "difficulty": "Easy",
-    "mastery": 0
-  },
-  {
-    "word": "Sink",
-    "type": "Double",
-    "meanings": [
-      "A basin for washing in a kitchen",
-      "To go below the surface of water"
-    ],
-    "examples": [
-      "She washed the dishes in the sink.",
-      "The heavy stone began to sink."
-    ],
-    "theme": "Objects",
-    "difficulty": "Easy",
-    "mastery": 0
-  },
-  {
-    "word": "Tire",
-    "type": "Double",
-    "meanings": [
-      "A rubber covering on a wheel",
-      "To become weary or fatigued"
-    ],
-    "examples": [
-      "The car had a flat tire.",
-      "Long walks tire me out quickly."
-    ],
-    "theme": "Objects",
-    "difficulty": "Easy",
-    "mastery": 0
-  },
-  {
-    "word": "Bowl",
-    "type": "Double",
-    "meanings": [
-      "A round dish for food",
-      "To roll a ball in a sport"
-    ],
-    "examples": [
-      "She poured cereal into a bowl.",
-      "He bowled a perfect strike."
-    ],
-    "theme": "Objects",
-    "difficulty": "Easy",
-    "mastery": 0
-  }
-  {
-    "word": "Pen",
-    "type": "Quadruple",
-    "meanings": [
-      "A writing instrument",
-      "An animal enclosure",
-      "A prison",
-      "To write or compose"
-    ],
-    "examples": [
-      "She used a pen.",
-      "A pig pen.",
-      "Time in the pen.",
-      "She penned a letter."
-    ],
-    "theme": "Objects",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "Palm",
-    "type": "Quadruple",
-    "meanings": [
-      "The inner hand surface",
-      "A tropical tree",
-      "To conceal in hand",
-      "To pass off deceptively"
-    ],
-    "examples": [
-      "She read his palm.",
-      "Palm trees swayed.",
-      "He palmed the coin.",
-      "He palmed off a fake."
-    ],
-    "theme": "Nature",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "Plane",
-    "type": "Double",
-    "meanings": [
-      "An aircraft",
-      "A flat, level surface"
-    ],
-    "examples": [
-      "The plane landed safely.",
-      "The carpenter checked the smooth plane."
-    ],
-    "theme": "Objects",
-    "difficulty": "Easy",
-    "mastery": 0
-  },
-  {
-    "word": "Star",
-       "type": "Quadruple",
-    "meanings": [
-      "A celestial body",
-      "A famous person",
-      "To have the main role",
-      "A pointed shape"
-    ],
-    "examples": [
-      "Stars twinkled above.",
-      "A movie star.",
-      "She starred in the film.",
-      "A five-pointed star."
-    ],
-    "theme": "Nature",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "Fan",
-    "type": "Quadruple",
-    "meanings": [
-      "An airflow device",
-      "An enthusiast",
-      "To spread out",
-      "To intensify"
-    ],
-    "examples": [
-      "The ceiling fan.",
-      "A sports fan.",
-      "She fanned the cards.",
-      "Winds fanned the flames."
-    ],
-    "theme": "Objects",
-    "difficulty": "Medium",
-    "mastery": 0
-  }
-  {
-    "word": "Rock",
-    "type": "Triple",
-    "meanings": [
-      "A stone",
-      "A genre of music",
-      "To move gently back and forth"
-    ],
-    "examples": [
-      "He skipped a rock across the lake.",
-      "She listens to classic rock.",
-      "The boat rocked in the waves."
-    ],
-    "theme": "Nature",
-    "difficulty": "Easy",
-    "mastery": 0
-  },
-  {
-    "word": "Pitch",
-    "type": "Triple",
-    "meanings": [
-      "To throw something",
-      "The highness or lowness of sound",
-      "A sales presentation"
-    ],
-    "examples": [
-      "He pitched the ball.",
-      "The singer hit a high pitch.",
-      "She gave a strong sales pitch."
-    ],
-    "theme": "Sports",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "Mine",
-    "type": "Triple",
-    "meanings": [
-      "Belonging to me",
-      "An excavation for minerals",
-      "To extract resources"
-    ],
-    "examples": [
-      "That book is mine.",
-      "They explored the old mine.",
-      "The company mined for copper."
-    ],
-    "theme": "Abstract Ideas",
-    "difficulty": "Easy",
-    "mastery": 0
-  },
-  {
-    "word": "Bat",
-    "type": "Triple",
-    "meanings": [
-      "A flying mammal",
-      "A club used in sports",
-      "To hit something"
-    ],
-    "examples": [
-      "A bat flew overhead.",
-      "He swung the bat.",
-      "She batted the ball away."
-    ],
-    "theme": "Animals",
-    "difficulty": "Easy",
-    "mastery": 0
-  },
-  {
-    "word": "Slip",
-    "type": "Triple",
-    "meanings": [
-      "To lose footing",
-      "A small mistake",
-      "A piece of paper"
-    ],
-    "examples": [
-      "He slipped on the ice.",
-      "A slip of the tongue.",
-      "She wrote her number on a slip."
-    ],
-    "theme": "Actions",
-    "difficulty": "Easy",
-    "mastery": 0
-  }  {
-    "word": "Scale",
-    "type": "Triple",
-    "meanings": [
-      "A device for measuring weight",
-      "The outer covering of a fish or reptile",
-      "To climb up something"
-    ],
-    "examples": [
-      "He stepped on the scale.",
-      "The fish had shiny scales.",
-      "They scaled the cliff face."
-    ],
-    "theme": "Objects",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "Current",
-    "type": "Triple",
-    "meanings": [
-      "A flow of water or air",
-      "Present time",
-      "A flow of electricity"
-    ],
-    "examples": [
-      "The river current was strong.",
-      "The current situation is improving.",
-      "Electric current flows through the wire."
-    ],
-    "theme": "Nature",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "Fair",
-    "type": "Triple",
-    "meanings": [
-      "Just or impartial",
-      "A festival or carnival",
-      "Light in complexion"
-    ],
-    "examples": [
-      "That was a fair decision.",
-      "We went to the county fair.",
-      "She had fair skin and blue eyes."
-    ],
-    "theme": "Abstract Ideas",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "File",
-    "type": "Triple",
-    "meanings": [
-      "A folder or document",
-      "A tool for smoothing surfaces",
-      "To submit or record formally"
-    ],
-    "examples": [
-      "She saved the file.",
-      "He used a metal file.",
-      "They filed a complaint."
-    ],
-    "theme": "Objects",
-    "difficulty": "Medium",
-    "mastery": 0
-  },
-  {
-    "word": "Trip",
-    "type": "Triple",
-    "meanings": [
-      "A journey or excursion",
-      "To stumble or lose balance",
-      "To activate or trigger"
-    ],
-    "examples": [
-      "They took a trip to the mountains.",
-      "He tripped on the curb.",
-      "The sensor tripped the alarm."
-    ],
-    "theme": "Actions",
-    "difficulty": "Easy",
-    "mastery": 0
-  }
+
+  <!-- CHUNK CONTINUES… -->
 
 
