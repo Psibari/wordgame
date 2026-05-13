@@ -1,62 +1,34 @@
-
 import { View, Text, Pressable, StyleSheet } from "react-native";
 import { Link } from "expo-router";
+import { Colors } from "@/constants/theme";
 
-export default function ModeSelect() {
+export default function HomeScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>POLY WORDS</Text>
-      <Text style={styles.subtitle}>Choose your path</Text>
+      <Text style={styles.title}>POLYWORDS</Text>
+      <Text style={styles.subtitle}>Are you game?</Text>
 
-      <View style={styles.grid}>
-        {/* Blitz */}
-        <Link href="/Blitz" asChild>
-          <Pressable style={[styles.tile, { backgroundColor: "#DC2626" }]}>
-            <Text style={styles.tileTitle}>⚡ Blitz</Text>
-            <Text style={styles.tileDesc}>Speed & precision</Text>
+      <Link href="/(tabs)/play" asChild>
+        <Pressable style={styles.playButton}>
+          <Text style={styles.playText}>▶ Play</Text>
+        </Pressable>
+      </Link>
+
+      <View style={styles.secondaryRow}>
+        <Link href="/(tabs)/library" asChild>
+          <Pressable style={styles.secondaryCard}>
+            <Text style={styles.cardTitle}>📚 Library</Text>
+            <Text style={styles.cardText}>Browse your words</Text>
           </Pressable>
         </Link>
 
-        {/* Crossroads */}
-        <Link href="/(tabs)/play" asChild>
-          <Pressable style={[styles.tile, { backgroundColor: "#4F46E5" }]}>
-            <Text style={styles.tileTitle}>🔀 Crossroads</Text>
-            <Text style={styles.tileDesc}>Context mastery</Text>
-          </Pressable>
-        </Link>
-
-        {/* Scholar's Cave */}
-        <Link href="/Scholar" asChild>
-          <Pressable style={[styles.tile, { backgroundColor: "#16A34A" }]}>
-            <Text style={styles.tileTitle}>📚 Scholar’s Cave</Text>
-            <Text style={styles.tileDesc}>Deep knowledge</Text>
-          </Pressable>
-        </Link>
-
-        {/* Echo Canyon */}
-        <Link href="/Echo" asChild>
-          <Pressable style={[styles.tile, { backgroundColor: "#F59E0B" }]}>
-            <Text style={styles.tileTitle}>🔊 Echo Canyon</Text>
-            <Text style={styles.tileDesc}>Memory & recall</Text>
+        <Link href="/(tabs)/polly" asChild>
+          <Pressable style={styles.secondaryCard}>
+            <Text style={styles.cardTitle}>🦜 Polly</Text>
+            <Text style={styles.cardText}>Meet your guide</Text>
           </Pressable>
         </Link>
       </View>
-
-      {/* Library */}
-      <Link href="/(tabs)/library" asChild>
-        <Pressable style={[styles.longTile, { backgroundColor: "#6B7280" }]}>
-          <Text style={styles.tileTitle}>🌱 Word Garden</Text>
-          <Text style={styles.tileDesc}>Your growing mastery world</Text>
-        </Pressable>
-      </Link>
-
-      {/* Polly */}
-      <Link href="/(tabs)/polly" asChild>
-        <Pressable style={[styles.longTile, { backgroundColor: "#9333EA" }]}>
-          <Text style={styles.tileTitle}>🦜 Polly’s Perch</Text>
-          <Text style={styles.tileDesc}>Talk to your guide</Text>
-        </Pressable>
-      </Link>
     </View>
   );
 }
@@ -64,51 +36,54 @@ export default function ModeSelect() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: Colors.bg,
+    justifyContent: "center",
     padding: 24,
-    paddingTop: 60,
-    backgroundColor: "#0F0F1A",
   },
   title: {
-    fontSize: 32,
-    fontWeight: "700",
-    color: "white",
+    fontSize: 42,
+    fontWeight: "800",
+    color: Colors.gold,
     textAlign: "center",
   },
   subtitle: {
-    marginTop: 6,
+    marginTop: 12,
+    fontSize: 18,
+    color: Colors.textSub,
     textAlign: "center",
-    color: "#A1A1AA",
-    fontSize: 16,
+    marginBottom: 48,
   },
-  grid: {
-    marginTop: 40,
-    flexDirection: "row",
-    flexWrap: "wrap",
-    justifyContent: "space-between",
+  playButton: {
+    backgroundColor: Colors.accent,
+    paddingVertical: 20,
+    borderRadius: 18,
+    alignItems: "center",
+    marginBottom: 24,
   },
-  tile: {
-    width: "48%",
-    height: 120,
-    borderRadius: 16,
-    padding: 16,
-    justifyContent: "center",
-  },
-  longTile: {
-    marginTop: 20,
-    width: "100%",
-    height: 90,
-    borderRadius: 16,
-    padding: 16,
-    justifyContent: "center",
-  },
-  tileTitle: {
-    fontSize: 20,
-    fontWeight: "700",
+  playText: {
     color: "white",
+    fontSize: 24,
+    fontWeight: "700",
   },
-  tileDesc: {
-    marginTop: 4,
-    fontSize: 14,
-    color: "#E5E5E5",
+  secondaryRow: {
+    flexDirection: "row",
+    gap: 16,
+  },
+  secondaryCard: {
+    flex: 1,
+    backgroundColor: Colors.bgCard,
+    borderWidth: 1,
+    borderColor: Colors.border,
+    borderRadius: 16,
+    padding: 18,
+  },
+  cardTitle: {
+    color: Colors.text,
+    fontSize: 18,
+    fontWeight: "700",
+  },
+  cardText: {
+    color: Colors.textSub,
+    marginTop: 8,
   },
 });
