@@ -1,165 +1,99 @@
+# 🦜 POLYWORDS
 
-🌟 POLY WORDS
-A fast, clever, beautifully simple word‑mastery game starring Polly the Parrot.
-<div align="center">
+A fast, replayable word game about discovering multiple meanings.
 
-https://img.shields.io/badge/React_Native-0.74-blue  
-https://img.shields.io/badge/Expo-51.0-black  
-https://img.shields.io/badge/TypeScript-5.0-blue  
-https://img.shields.io/badge/Platform-iOS_/_Android-green  
-https://img.shields.io/badge/Status-In_Development-yellow
+POLYWORDS is built around polysemy — words that have more than one meaning.
+Players are shown a word and must select all correct meanings from multiple choices.
 
-</div>
+The current repository is focused on a clean V1 gameplay loop.
 
-🦜 What Is POLY WORDS?
-POLY WORDS is a vocabulary‑adventure game built around polysemy — words with multiple meanings.
-Players explore, guess, collect, and master words across difficulty tiers, guided by Polly, the game’s smartass‑but‑welcoming parrot mascot.
+---
 
-The game is built with:
+## 🎮 Current V1 Scope
 
-React Native + Expo
+The active app currently includes:
 
-TypeScript
+- Home screen
+- Core Play screen
+- Word Library
+- Polly screen
+- Local gameplay loop prototype
 
-Expo Router
+The focus right now is:
 
-Modern component architecture
+- Fast rounds
+- Replayability
+- Discovery moments
+- Simple progression
+- Strong game feel
 
-A curated 739‑word dataset
+---
 
-🎮 Core Screens
-▶️ Play
-The main gameplay loop — fast, clean, and replayable.
+## 🧠 Core Gameplay
 
-📚 Library
-Browse the full word database, view meanings, examples, and track mastery.
+Example:
 
-🦜 Polly
-Your companion, guide, and occasional roaster.
-Polly reacts to progress, gives hints, and adds personality to the experience.
+WORD: BARK
 
-📁 Project Structure
-Code
-/
-├── app/
-│   ├── play/
-│   ├── library/
-│   ├── polly/
-│   └── _layout.tsx
-│
-├── components/
-│   ├── ui/
-│   ├── game/
-│   └── shared/
-│
-├── data/
-│   └── polywords.json   ← full 739‑word dataset
-│
-├── assets/
-│   ├── images/
-│   ├── fonts/
-│   └── audio/
-│
-├── hooks/
-├── utils/
-├── constants/
-└── README.md
-🧠 Word Dataset
-The /data/polywords.json file contains:
+Possible meanings:
+- Sound a dog makes
+- Outer layer of a tree
+- A fruit
+- A tool
 
-Word type (Double / Triple / Quadruple)
+Players must select all correct meanings.
 
-2–4 meanings
+---
 
-Example sentences
+## 🛠 Stack
 
-Theme
+- React Native
+- Expo
+- Expo Router
+- TypeScript
 
-Difficulty rating
+---
 
-This dataset powers Play, Library, and future modes.
+## 📁 Structure
 
-🚀 Getting Started
-Install
-bash
-npm install
-Run
-bash
-npx expo start
-Build (Expo)
-bash
-npx expo prebuild
-🛠 Tech Stack
-React Native
+/app
+  /(tabs)
+    index.tsx
+    play.tsx
+    library.tsx
+    polly.tsx
 
-Expo
+/archive
+  Blitz.tsx
+  Scholar.tsx
+  Echo.tsx
 
-TypeScript
+/constants
+/data
+/assets
 
-Expo Router
+---
 
-Zustand (state management)
+## 🦜 Polly
 
-Reanimated (animations)
+Polly is the player's companion and guide.
+The tone is encouraging, playful, and supportive.
 
-AsyncStorage (planned)
+---
 
-🎨 Branding
-POLY WORDS uses a clean, modern visual identity:
+## 🚀 Current Priority
 
-Primary Palette:
+Build and refine the core gameplay loop before expanding into:
 
-Deep Indigo (#1A1040)
+- Arena systems
+- Advanced progression
+- Competitive modes
+- Cinematic effects
+- Large feature systems
 
-Gold (#FFD700)
+---
 
-Purple Glow (#8B5CF6)
+## 📄 Status
 
-Mascot: Polly the Parrot
-
-Green body
-
-Orange curved beak
-
-Explorer hat
-
-Taglines:
-
-Words Have Meaning…’s
-
-How many can you master
-
-Are You Game
-
-🗺️ Roadmap
-Library MVP
-
-Animated Polly reactions
-
-Sound design pass
-
-Daily challenges
-
-Word mastery progression
-
-Achievements
-
-Expanded word packs
-
-🤝 Contributing
-Pull requests are welcome — especially:
-
-UI improvements
-
-Word dataset expansions
-
-Performance optimizations
-
-Accessibility enhancements
-
-📄 License
-MIT License.
-
-👤 Author
-Pete DiBari  
-GitHub: Psibari
+In active development.
+Focused on validating gameplay first.
